@@ -16,7 +16,7 @@
   <a href="https://www.figma.com/design/w6fnH74KHmQwAwdg0Vps0Y/FOOD-APP?node-id=1-2&t=bk3pZYkh5SedajEt-1"> figma.com/designs/basic-food-app-ui </a>
 </p>
 
-<h2 align="left">4. Basic Health Tracker App: </h2>
+<h2 align="left">4. Basic Health Tracker App UI: </h2>
 <p>
   <a href="https://www.figma.com/design/eSNYBIQ6BbVJLy8XASBmvl/HEALTH-APP?node-id=0-1&t=BQ0Hot6APxkrwASL-1"> figma.com/designs/basic-health-tracker-app </a>
 </p>
